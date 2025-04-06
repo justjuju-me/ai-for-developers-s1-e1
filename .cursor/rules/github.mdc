@@ -1,0 +1,11 @@
+---
+description: Github interaction
+globs: 
+alwaysApply: false
+---
+
+# Gibhub MCP
+
+- Use the [PULL_REQUEST_TEMPLATE.md](mdc:docs/PULL_REQUEST_TEMPLATE.md) to create pull request
+- To get the changed info, run desktop commands
+- Summary all changes on the chat before sent to the MCP
